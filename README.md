@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi there 👋 I am Ionut Francisc!
+I am a Security & Privacy Consultant by day & Web developer enthusiast by night.
 
 ## :zap: Activity
 

@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋 ! I am Ionut Francisc! 
+# Hi there 👋 ! I am Ionut Francisc! ${{ GH_USER }}
 - 🔭 I am a Security & Privacy Consultant by day & a Web developer enthusiast by night.
 - 🌱 I’m currently learning
 ---

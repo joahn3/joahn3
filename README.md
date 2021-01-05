@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋 I am Ionut Francisc!
-
-- 🔭 I’m currently working on
  
 <!-- CodersRank -->
 <!-- replace x.x.x with actual version

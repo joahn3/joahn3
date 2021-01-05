@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, stranger! I am Johnny!
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> stranger! I am Johnny!
 ![counter](https://ensntw1ius1iyyt.m.pipedream.net)
 - 🔭 I am a Security & Privacy Consultant by day & a Web developer enthusiast by night.
 

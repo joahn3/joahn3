@@ -32,9 +32,10 @@ Here are some ideas to get you started:
 ![counter](https://ensntw1ius1iyyt.m.pipedream.net)
 
 <!-- replace username with your username -->
+<div display="inline">
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joahn3)](https://github.com/anuraghazra/github-readme-stats)
-
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joahn3&repo=next-starter-tailwind-portofolio-website)
+<div>
 
 <!--START_SECTION:waka-->
 
@@ -53,6 +54,7 @@ Here are some ideas to get you started:
 <img alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <div>
+
 ## 📈 Stats 
 <div display="inline">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joahn3&theme=radical&show_icons=true" />
@@ -60,7 +62,6 @@ Here are some ideas to get you started:
 <div>
 
 
-## :zap: Activity
 <!--START_SECTION:waka-->
 
 **I'm a Night 🦉** 
@@ -102,7 +103,7 @@ Markdown                 7 mins              ░░░░░░░░░░░�
 VS Code                  36 hrs 57 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  36 hrs 57 mins      █████████████████████████   100.0%
+MacOS                  36 hrs 57 mins      █████████████████████████   100.0%
 
 ```
 

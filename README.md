@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 <img alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <div>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joahn3)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 📈 Stats 
 <div display="inline">
@@ -99,5 +101,3 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 <img src="https://img.shields.io/badge/MADE%20WITH%20%E2%9D%A4%EF%B8%8F%20IN-ROMANIA-%23CD0000?style=for-the-badge" />
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joahn3)](https://github.com/anuraghazra/github-readme-stats)

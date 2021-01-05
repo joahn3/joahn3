@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ## 📈 Stats
 
 <div display="inline">
-<img src="https://github-readme-stats.vercel.app/api/&langs_count=10/?username=joahn3&theme=radical&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joahn3&langs_count=10&theme=radical&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api?username=joahn3&theme=radical&show_icons=true" />
 <div>
 

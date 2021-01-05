@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi there 👋 ! I am Ionut Francisc! 
-I am a Security & Privacy Consultant by day & Web developer enthusiast by night.
+I am a Security & Privacy Consultant by day & a Web developer enthusiast by night.
 
 ---
 
@@ -49,6 +49,8 @@ I am a Security & Privacy Consultant by day & Web developer enthusiast by night.
 <div>
 
 <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 **I'm a Night 🦉**
 
@@ -102,7 +104,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9%
 
 ```
-
-<!--END_SECTION:waka-->
 
 <img src="https://img.shields.io/badge/MADE%20WITH%20%E2%9D%A4%EF%B8%8F%20IN-ROMANIA-%23CD0000?style=for-the-badge" />

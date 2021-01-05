@@ -39,6 +39,10 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joahn3&theme=radical&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api?username=joahn3&theme=radical&show_icons=true" />
 <div>
+<div>
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

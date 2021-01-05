@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi there 👋 ! I am Ionut Francisc!
-🔭 I am a Security & Privacy Consultant by day & a Web developer enthusiast by night.
---
-- 🌱 I’m currently learning
----
+- 🔭 I am a Security & Privacy Consultant by day & a Web developer enthusiast by night.
 
 ## :zap: Activity
 

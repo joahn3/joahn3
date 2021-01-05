@@ -18,18 +18,20 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on
  
 <!-- CodersRank -->
-<!-- replace x.x.x with actual version -->
+<!-- replace x.x.x with actual version
 <script src="https://unpkg.com/@codersrank/summary@0.9.10/codersrank-summary.min.js"></script>
 <script src="https://unpkg.com/@codersrank/skills-chart@0.9.16/codersrank-skills-chart.min.js"></script>
-
-<!-- replace username with your username -->
+-->
+<!-- replace username with your username
 <codersrank-summary username="joahn3"></codersrank-summary>
 <codersrank-skills-chart username="joahn3"></codersrank-skills-chart>
-
+-->
 <!-- replace username with your username -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joahn3)](https://github.com/anuraghazra/github-readme-stats)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joahn3&repo=next-starter-tailwind-portofolio-website)
+
+![counter](https://[YourEndpoint].m.pipedream.net)
 
 ---
 

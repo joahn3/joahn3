@@ -33,10 +33,8 @@ Here are some ideas to get you started:
 
 <!-- replace username with your username -->
 
-<div display="inline">
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joahn3)](https://github.com/anuraghazra/github-readme-stats)
  ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joahn3&repo=next-starter-tailwind-portofolio-website)
-</div>
 
 <!--START_SECTION:waka-->
 

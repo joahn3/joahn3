@@ -1,6 +1,3 @@
-### Hi there 👋 I am Ionut Francisc!
-### & i ❤️ building websites 🙌
-
 <!--
 **joahn3/joahn3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hi there 👋 I am Ionut Francisc!
+
+- 🔭 I’m currently working on
  
 ## 🚀 Skills 
 <div display="inline">
@@ -96,9 +96,8 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-  
-  
-  
 
 <img src="https://img.shields.io/badge/MADE%20WITH%20%E2%9D%A4%EF%B8%8F%20IN-ROMANIA-%23CD0000?style=for-the-badge" />
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joahn3)](https://github.com/anuraghazra/github-readme-stats)

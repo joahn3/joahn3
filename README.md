@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joahn3&repo=next-starter-tailwind-portofolio-website)
 
-![counter](https://[YourEndpoint].m.pipedream.net)
+![counter](https://ensntw1ius1iyyt.m.pipedream.net)
 
 ---
 

@@ -41,38 +41,37 @@ Here are some ideas to get you started:
 
 ## :zap: Activity
 - Chic Roumaine: (wordpress)
-https://chicroumaine.com
-https://shop.chicroumaine.com
+  - https://chicroumaine.com
+  - https://shop.chicroumaine.com
 - Chic Roumaine dev trials (Next.js CMS & wordpress)
-https://nextjs-cms-wordpress.vercel.app/
-https://
+  - https://nextjs-cms-wordpress.vercel.app/
+  - https://
 - ParentalControls.ro (Ghost backend / Gridsome as frontend)
-https://tudor.parentalcontrols.ro
-https://@
+  - https://tudor.parentalcontrols.ro
+  - https://@
 - Notariat Sector 4: (Bootstrap)
-https://notariat-sector-4.netlify.app/index.html
+  - https://notariat-sector-4.netlify.app/
 - Profesor Muzica: (Bootstrap)
-https://floriana-pliundra-website.vercel.app/
+  - https://floriana-pliundra-website.vercel.app/
 - Anahicont: (wordpress)
-https://anahicont.ro/
+  - https://anahicont.ro/
 - GoodPC: (Google sites | Forestry | Bootstrap | Ecwid shop)
-https://good-pc.business.site/
-https://goodpc.netlify.app/
-https://good-pc.netlify.app/
-https://good-pc.company.site/ 
-
+  - https://good-pc.business.site/
+  - https://goodpc.netlify.app/
+  - https://good-pc.netlify.app/
+  - https://good-pc.company.site/ 
 - Restaurant La Sulea: (Google sites & webflow.ioo)
-https://la-sulea.business.site/
-https://la-sulea.webflow.io/
+  - https://la-sulea.business.site/
+  - https://la-sulea.webflow.io/
 - Painting presentation & blog: (Forestry & Gridsome)
-https://painting-for-the-soul.netlify.app/ 
+  - https://painting-for-the-soul.netlify.app/ 
 
 - My website trials or work in progress:
 1. WeSecureWeb.dev: 
-https://wesecureweb.dev
+  - https://wesecureweb.dev
 2. ionutfrancisc.dev:
-https://
+  - https://
 3.
-
+  - 
 
 <img src="https://img.shields.io/badge/MADE%20WITH%20%E2%9D%A4%EF%B8%8F%20IN-ROMANIA-%23CD0000?style=for-the-badge" />

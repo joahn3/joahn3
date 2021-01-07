@@ -69,8 +69,7 @@ Here are some ideas to get you started:
   - https://painting-for-the-soul.netlify.app/ (Forestry & Gridsome)
   - https://sites.google.com/view/paintingforthesoul/ [Google sites]
 
-- My website trials
-  work in progress:
+- My website trials / work in progress:
   - WeSecureWeb.dev: 
     - https://wesecureweb.dev (Gridsome)
   - ionutfrancisc.dev:

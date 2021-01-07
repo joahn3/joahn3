@@ -18,8 +18,36 @@ Here are some ideas to get you started:
 - 🔭 I am a Security & Privacy Consultant by day & a Web developer enthusiast by night.
 
 ## :zap: Activity
-- Notariat Sector 4: 
-[https://notariat-sector-4.netlify.app/index.html]
+- Chic Roumaine: (wordpress)
+https://chicroumaine.com
+https://shop.chicroumaine.com
+- Chic Roumaine (Next.js CMS & wordpress)
+https://nextjs-cms-wordpress.vercel.app/
+- ParentalControls.ro (Ghost backend / Gridsome as frontend)
+https://tudor.parentalcontrols.ro
+https://@
+- Notariat Sector 4: (Bootstrap)
+https://notariat-sector-4.netlify.app/index.html
+- Profesor Muzica: (Bootstrap)
+https://floriana-pliundra-website.vercel.app/
+- Anahicont: (wordpress)
+https://anahicont.ro/
+- GoodPC: (Google sites & Forestry & Ecwid shop)
+https://good-pc.business.site/
+https://goodpc.netlify.app/
+https://good-pc.company.site/ 
+
+- Restaurant La Sulea: (Google sites)
+https://la-sulea.business.site/
+
+- My website trials or work in progress:
+1. WeSecureWeb.dev: 
+https://wesecureweb.dev
+2. ionutfrancisc.dev:
+https://
+3.
+
+
 
 ## 🚀 Skills
 

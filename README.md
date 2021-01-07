@@ -40,9 +40,8 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=joahn3&theme=radical&show_icons=true" />
 <div>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joahn3)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <img src="https://img.shields.io/badge/MADE%20WITH%20%E2%9D%A4%EF%B8%8F%20IN-ROMANIA-%23CD0000?style=for-the-badge" />
+
+<!--END_SECTION:waka-->

@@ -40,37 +40,41 @@ Here are some ideas to get you started:
 <!--END_SECTION:waka-->
 
 ## :zap: Activity
-- Chic Roumaine: (wordpress)
-  - https://chicroumaine.com
-  - https://shop.chicroumaine.com
-- Chic Roumaine dev trials (Next.js CMS & wordpress)
-  - https://nextjs-cms-wordpress.vercel.app/
+- Chic Roumaine:
+  - https://chicroumaine.com (wordpress)
+  - https://shop.chicroumaine.com (wordpress on aws & aws cdn)
+- Chic Roumaine dev trials:
+  - https://nextjs-cms-wordpress.vercel.app/ (Next.js CMS & wordpress)
   - https://
-- ParentalControls.ro (Ghost backend / Gridsome as frontend)
-  - https://tudor.parentalcontrols.ro
-  - https://@
-- Notariat Sector 4: (Bootstrap)
-  - https://notariat-sector-4.netlify.app/
-- Profesor Muzica: (Bootstrap)
-  - https://floriana-pliundra-website.vercel.app/
-- Anahicont: (wordpress)
-  - https://anahicont.ro/
-- GoodPC: (Google sites | Forestry | Bootstrap | Ecwid shop)
-  - https://good-pc.business.site/
-  - https://goodpc.netlify.app/
-  - https://good-pc.netlify.app/
-  - https://good-pc.company.site/ 
-- Restaurant La Sulea: (Google sites & webflow.ioo)
-  - https://la-sulea.business.site/
-  - https://la-sulea.webflow.io/
-- Painting presentation & blog: (Forestry & Gridsome)
-  - https://painting-for-the-soul.netlify.app/ 
+- ParentalControls.ro 
+  - https://tudor.parentalcontrols.ro (Ghost backend)
+  - https://@ (Gridsome as frontend) -> work in progress
+- Notariat Sector 4:
+  - https://notariat-sector-4.netlify.app/ (Bootstrap)
+- Profesor Muzica:
+  - https://floriana-pliundra-website.vercel.app/ (Bootstrap)
+- Anahicont:
+  - https://anahicont.ro/ (wordpress)
+- GoodPC:
+  - https://good-pc.business.site/ (Google sites)
+  - https://goodpc.netlify.app/ (Forestry)
+  - https://good-pc.netlify.app/ (Bootstrap)
+  - https://good-pc.company.site/ (Ecwid shop)
+- Restaurant La Sulea:
+  - https://la-sulea.business.site/ (Google sites)
+  - https://la-sulea.webflow.io/ (Webflow.io)
+- Restaurant 15A:
+  - https://sites.google.com/view/15abistro/ (Google sites)
+- Painting presentation & blog:
+  - https://painting-for-the-soul.netlify.app/ (Forestry & Gridsome)
+  - https://sites.google.com/view/paintingforthesoul/ [Google sites]
 
-- My website trials or work in progress:
+- My website trials
+  -> work in progress:
 1. WeSecureWeb.dev: 
-  - https://wesecureweb.dev
+  - https://wesecureweb.dev (Gridsome vue.js)
 2. ionutfrancisc.dev:
-  - https://
+  - https:// (Next.js)
 3.
   - 
 

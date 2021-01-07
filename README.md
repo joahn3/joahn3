@@ -70,12 +70,11 @@ Here are some ideas to get you started:
   - https://sites.google.com/view/paintingforthesoul/ [Google sites]
 
 - My website trials
-  -> work in progress:
-1. WeSecureWeb.dev: 
-  - https://wesecureweb.dev (Gridsome vue.js)
-2. ionutfrancisc.dev:
-  - https:// (Next.js)
-3.
+  work in progress:
+  - WeSecureWeb.dev: 
+    - https://wesecureweb.dev (Gridsome)
+  - ionutfrancisc.dev:
+    - https:// (Next.js)
   - 
 
 <img src="https://img.shields.io/badge/MADE%20WITH%20%E2%9D%A4%EF%B8%8F%20IN-ROMANIA-%23CD0000?style=for-the-badge" />

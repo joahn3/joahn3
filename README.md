@@ -40,6 +40,10 @@ Here are some ideas to get you started:
 <!--END_SECTION:waka-->
 
 ## :zap: Activity
+
+<details>
+<summary>View projects</summary>
+
 - Chic Roumaine:
   - https://chicroumaine.com (wordpress)
   - https://shop.chicroumaine.com (wordpress on aws & aws cdn)
